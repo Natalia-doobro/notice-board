@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-Reach-out-to-us/static/css/main.fd291ffb.css",
+    "main.js": "/test-Reach-out-to-us/static/js/main.2ed63f47.js",
+    "index.html": "/test-Reach-out-to-us/index.html",
+    "main.fd291ffb.css.map": "/test-Reach-out-to-us/static/css/main.fd291ffb.css.map",
+    "main.2ed63f47.js.map": "/test-Reach-out-to-us/static/js/main.2ed63f47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd291ffb.css",
+    "static/js/main.2ed63f47.js"
+  ]
+}
