@@ -1,0 +1,14 @@
+.App {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  min-width: 600px;
+  padding: 20px;
+  transform: translate(-50%, -30%);
+  text-align: left;
+  color: #fff;
+  background-color: rgba(73, 69, 69, 0.63);
+  box-shadow: 10px 10px 8px 2px #000;
+  border-bottom: 4px solid rgb(49, 47, 49);
+  border-radius: 10px;
+}
